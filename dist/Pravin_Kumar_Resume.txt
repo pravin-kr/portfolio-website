@@ -1,0 +1,48 @@
+======================================================================
+PRAVIN KUMAR | PROFESSIONAL RESUME
+======================================================================
+Location: Katihar, Bihar, India
+Phone: +91 9110104390
+Email: pravinkrktr2005@gmail.com
+LinkedIn: www.linkedin.com/in/pravin-kumar-70034b339
+
+PROFESSIONAL SUMMARY
+A dynamic and results-oriented Business Administration student with cross-functional experience in sales operations, recruitment analytics, and digital tools. Passionate about simplifying complex processes and leveraging data-driven insights to improve professional efficiency. Proactive in adopting emerging technologies and AI tools to optimize workflows and drive organizational value.
+
+CORE COMPETENCIES
+- Operational Excellence: Documentation, reporting, and daily business operations.
+- Strategic Communication: Client engagement, product demonstrations, sales communication.
+- Data Intelligence: Data visualization (Excel/PowerPoint), reporting, recruitment analytics.
+- Tech Adaptability: AI tools for process optimization, ATS enhancement, workflow automation.
+
+PROFESSIONAL EXPERIENCE
+1. Bajaj Finserv | Sales Trainee (Sep 2025 – Nov 2025)
+   - Client Management: Managed customer inquiries and delivered product demonstrations.
+   - Operational Support: Enhanced sales team efficiency through active lead generation.
+   - Business Process: Deep understanding of dealership operations and dynamics.
+
+2. Amanah Jobs | Human Resources Intern (Oct 2025 – Nov 2025)
+   - AI Integration: Leveraged AI tools to streamline candidate sourcing.
+   - Optimization: Created ATS-friendly resumes and optimized job postings.
+   - Analytics: Foundational skills in talent acquisition and recruitment automation.
+
+EDUCATION
+- BBA | Arcade Business College, Patna (2024 – 2027)
+- Intermediate | R.K.K. College (2022 – 2024)
+
+CERTIFICATIONS
+- Financial Management Skill (MSDE Skill India, May 2026)
+- 1st Winner in Sudoku (Arcade Business College, Sep 2025)
+- Project Initiation: Starting a Successful Project (Google, Aug 2025)
+- Foundations of Project Management (Google, Jun 2025)
+- Internship Common Aptitude Test (Internship Studio, Jun 2025)
+- Work Smarter with Microsoft PowerPoint (Microsoft, Apr 2025)
+- How To Visualize Your Data (Coursera Project Network, Mar 2025)
+
+======================================================================
+INSTRUCTIONS TO UPDATE THIS FILE:
+To replace this with your actual PDF resume:
+1. Rename your real resume PDF file to "Pravin_Kumar_Resume.pdf"
+2. Place it inside the "public" folder of this project directory.
+3. Update the download link attribute in the Hero section or use the interactive guide built into the website.
+======================================================================
